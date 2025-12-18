@@ -1,4 +1,4 @@
-# AI Document Execution Framework
+# stochastic-control Framework
 
 ## Before You Start
 
