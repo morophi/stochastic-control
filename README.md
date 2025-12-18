@@ -4,6 +4,7 @@
 
 This repository is **not** about:
 
+- control theory or ML code
 - making AI more friendly
 - delegating thinking
 - getting instant answers
