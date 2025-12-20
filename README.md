@@ -4,6 +4,7 @@
 
 This repository is **not** about:
 
+- control theory or ML code”
 - making AI more friendly
 - delegating thinking
 - getting instant answers
@@ -17,6 +18,25 @@ This repository exists for people who have felt at least one of the following:
 
 If none of this resonates,  
 this framework may not be useful to you.
+
+---
+
+## 🚧 Current Status: Field Testing (v0.5)
+
+The validity of this framework is currently being verified in real-world environments.
+We are testing the "Human-Defined Direction, AI Execution" protocol in two distinct domains:
+
+**1. Project Physical AI (Robot Dancer)**
+
+- Applying the protocol to hardware control and reinforcement learning (RL) optimization.
+- Verifying strict logic adherence under physical constraints.
+
+**2. Project Youth Builder (Game Dev Education)**
+
+- Validating the methodology for non-CS majors and youth education.
+- Testing the transfer of "judgment" capability rather than just code generation.
+
+_Case studies and execution logs from these projects will be integrated into this repository as `Case Study` chapters upon completion._
 
 ---
 
