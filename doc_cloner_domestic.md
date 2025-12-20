@@ -1,4 +1,4 @@
-# 🛡️ AI Document Execution Framework (Domestic Standard v1.0)
+# 🛡️ stochastic-control Framework (국내용 Standard v1.0)
 > **문서 분류:** LACP 운용 규약 / 국내 배포용
 > **적용 대상:** 결과물에 책임을 져야 하는 모든 실무자
 

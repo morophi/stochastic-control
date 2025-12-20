@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) [YEAR] [AUTHOR]
+Copyright (c) [2025] [mrophi]
 
 This repository is provided under the following terms.
 

@@ -1,10 +1,14 @@
-# AI Document Execution Framework
+# stochastic-control Framework
 
 ## Before You Start
 
 This repository is **not** about:
 
+<<<<<<< HEAD
 - control theory or ML code”
+=======
+- control theory or ML code
+>>>>>>> ecefb84cf6fc505570d7f809c6dead317dd8f084
 - making AI more friendly
 - delegating thinking
 - getting instant answers
