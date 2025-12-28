@@ -4,14 +4,17 @@
 
 This repository is **not** about:
 
-<<<<<<< HEAD
 - control theory or ML code”
-=======
 - control theory or ML code
->>>>>>> ecefb84cf6fc505570d7f809c6dead317dd8f084
 - making AI more friendly
 - delegating thinking
 - getting instant answers
+
+This repository addresses a recurring problem in LLM-based systems:
+
+- Who is responsible when probabilistic outputs are wrong?
+- Who controls automated decisions?
+- Who explains failures?
 
 This repository exists for people who have felt at least one of the following:
 
