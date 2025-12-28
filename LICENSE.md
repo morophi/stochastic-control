@@ -1,8 +1,11 @@
-# License
+# License and Terms of Use
 
-Copyright (c) [2025] [mrophi]
+Copyright (c) 2025 morophi
 
-This repository is provided under the following terms.
+This document defines the **terms of use** for this repository.
+It is not a standard open-source license.
+
+This license exists to protect **clarity of intent and responsibility boundaries**.
 
 ---
 
@@ -11,36 +14,39 @@ This repository is provided under the following terms.
 You are permitted to:
 
 - Read and study the contents of this repository
-- Use the framework for **personal, educational, or internal organizational purposes**
-- Apply the framework **as-is** in your own work
+- Use the framework **as-is** for personal, educational, or internal organizational purposes
+- Apply the framework privately in your own systems or workflows
+
+Educational use does NOT imply reduced responsibility.
 
 ---
 
 ## 2. Restrictions
 
-You are **not permitted** to:
+You are NOT permitted to:
 
 - Modify, rewrite, or reframe the core documents
-- Redistribute altered versions of the framework
-- Publish summaries, interpretations, or derivative works that replace the original intent
+- Redistribute altered, summarized, or adapted versions of the framework
+- Publish derivative works that replace or obscure the original intent
 - Present this framework as your own intellectual property
-- Use this framework for commercial redistribution or resale
+- Commercially redistribute, resell, or package this framework
 
-Partial quotation or extraction that alters meaning is considered modification.
+Partial quotation or extraction that alters meaning
+is considered modification.
 
 ---
 
 ## 3. Integrity Clause
 
-This repository is not a collection of tips or examples.
+This repository is not a collection of tips, prompts, or examples.
 
-It is a **coherent execution framework**.
+It is a **coherent responsibility-bound execution framework**.
 
 Any use that breaks:
 
 - structural integrity
 - role separation
-- responsibility boundaries
+- non-transferable responsibility boundaries
 
 is considered misuse.
 
@@ -48,15 +54,15 @@ is considered misuse.
 
 ## 4. Attribution
 
-If this framework is referenced, used, or discussed publicly:
+If this framework is referenced or discussed publicly:
 
-- Original source must be clearly cited
+- The original source must be clearly cited
 - Links must point to the original repository
 - Context must not imply endorsement, partnership, or delegation of responsibility
 
 ---
 
-## 5. No Warranty
+## 5. No Warranty and No Responsibility Transfer
 
 This framework is provided “as is”.
 
@@ -69,9 +75,17 @@ remain the sole responsibility of the user.
 
 ---
 
-## 6. Final Note
+## 6. Scope Clarification
 
-This license exists to protect **clarity**, not control.
+This license governs **use and redistribution**.
+Interpretation and understanding boundaries
+are defined separately in the NOTICE document.
+
+---
+
+## 7. Final Note
+
+This license exists to protect **clarity, not control**.
 
 If these terms feel restrictive,
 this framework is likely not suitable for your use case.

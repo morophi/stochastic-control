@@ -1,189 +1,93 @@
-# stochastic-control Framework
+# stochastic-control
 
-This is not about making AI safer.
+This is not about making AI safer.  
 It’s about making responsibility non-transferable.
 
-## Before You Start
+---
 
-This repository is **not** about:
+## What This Repository Is
 
-- control theory or ML code”
-- control theory or ML code
-- making AI more friendly
-- delegating thinking
-- getting instant answers
+This repository is **not a software product**.  
+It is **not a framework for automation**.  
+It is **not a collection of best practices**.
 
-This repository addresses a recurring problem in LLM-based systems:
+This repository is a **controlled environment for responsibility-bound reasoning**  
+in probabilistic systems, including LLM-based workflows.
 
-- Who is responsible when probabilistic outputs are wrong?
-- Who controls automated decisions?
-- Who explains failures?
-
-This repository exists for people who have felt at least one of the following:
-
-- AI outputs look reasonable, but feel _uncomfortable_
-- Responsibility for the result feels unclear
-- AI seems to decide _too much_
-- You want to use AI **without losing judgment**
-
-If none of this resonates,  
-this framework may not be useful to you.
+It exists to define **where responsibility must stop moving**.
 
 ---
 
-## 🚧 Current Status: Field Testing (v0.5)
+## What This Repository Is Not
 
-The validity of this framework is currently being verified in real-world environments.
-We are testing the "Human-Defined Direction, AI Execution" protocol in two distinct domains:
+If you are looking for:
 
-**1. Project Physical AI (Robot Dancer)**
+- faster output
+- better prompts
+- productivity shortcuts
+- AI-assisted decision making without accountability
 
-- Applying the protocol to hardware control and reinforcement learning (RL) optimization.
-- Verifying strict logic adherence under physical constraints.
+You are in the wrong place.
 
-**2. Project Youth Builder (Game Dev Education)**
-
-- Validating the methodology for non-CS majors and youth education.
-- Testing the transfer of "judgment" capability rather than just code generation.
-
-_Case studies and execution logs from these projects will be integrated into this repository as `Case Study` chapters upon completion._
+This repository does not optimize results.  
+It constrains delegation.
 
 ---
 
-## What This Framework Is
+## Core Idea
 
-This is a **thinking execution framework**.
+Modern AI systems are probabilistic.  
+Responsibility becomes ambiguous when outputs are plausible.
 
-- Humans define direction.
-- AI executes.
-- Responsibility never moves.
+This repository proposes a simple constraint:
 
-AI is treated as a probabilistic execution engine,  
-not a partner, not a co-author, not a decision-maker.
+> Responsibility must never be transferable to the system.
 
----
-
-## What This Framework Is NOT
-
-This framework is **not suitable** if you expect AI to:
-
-- infer intent for you
-- decide correctness
-- optimize judgment
-- replace responsibility
-
-If you want AI to “just handle it”,  
-you should stop here.
+No matter how capable the system appears,  
+no matter how accurate the output looks,  
+no matter how frequently the model is correct.
 
 ---
 
-## How to Use This Repository
+## How This Repository Is Used
 
-This repository is structured in three layers.
+This repository is used as:
 
-### 1. Entry Layer — README.md (this file)
+- a thinking scaffold
+- a responsibility boundary
+- a verification surface for AI-assisted reasoning
+- an educational testbed for LACP-based workflows
 
-Purpose:
-
-- understand whether this framework fits you
-- self-select before going deeper
-
-No execution happens here.
+It is intentionally uncomfortable.
 
 ---
 
-### 2. Core Layer — system_core.md
+## Who This Is For
 
-Purpose:
+- engineers
+- educators
+- system designers
+- researchers
+- individuals working with high-stakes AI outputs
 
-- define strict operational boundaries
-- establish execution rules
-- remove ambiguity
-
-This is the **non-negotiable core**.
-
-You do not modify this unless you fully understand it.
-
----
-
-### 3. Execution Layer — doc_cloner.md
-
-Purpose:
-
-- apply the framework to actual work
-- clone or reconstruct documents
-- execute under strict control
-
-This is where AI is allowed to operate.
+If you feel friction while reading this repository,  
+that friction is the point.
 
 ---
 
-## Two Ways to Approach This Framework
+## Structure
 
-### Option A: Assisted Clarification
-
-Use this when:
-
-- your intent exists but is not fully verbalized
-- you need help structuring direction
-
-AI may ask questions.
-AI may suggest structure.
-AI does **not** decide.
-
----
-
-### Option B: Strict Execution
-
-Use this when:
-
-- direction is clear
-- structure matters more than speed
-
-AI executes exactly.
-No interpretation.
-No expansion.
-
----
-
-## A Note on Discomfort
-
-If this framework feels slower or heavier than usual AI usage,  
-that is expected.
-
-The friction exists to prevent:
-
-- responsibility leakage
-- silent decision transfer
-- over-trusting probabilistic output
-
-This framework prioritizes **clarity over comfort**.
-
----
-
-## When NOT to Use This Framework
-
-Do not use this framework for:
-
-- brainstorming
-- free ideation
-- creative exploration
-
-Use other tools for that.
-
-This framework is for moments when **judgment matters**.
+- `system_core.ko.md` — core rules and responsibility constraints
+- `doc_cloner_revise.md` — operational usage guide
+- `doc_cloner_domestic.md` — contextualized domestic explanation
+- `LICENSE` / `NOTICE` — boundary declarations
 
 ---
 
 ## Final Note
 
-This is not a restriction.
-It is a boundary.
+This repository does not ask for agreement.  
+It asks for ownership.
 
-Boundaries protect judgment.
-
-If you value that,
-continue.
-
-If not,
+If this constraint feels unnecessary to you,  
 this repository is not for you.

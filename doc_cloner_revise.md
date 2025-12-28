@@ -1,166 +1,63 @@
-# AI Document Execution Framework (Safe Use Edition)
+# Document Cloner — Operational Rules (Revised)
 
-## 0. Purpose of This Document
+## 목적
 
-This document exists to **reduce friction for first-time or general users**
-while preserving the core principle:
-
-> **Humans decide. AI executes.**
-
-This is **not a creativity engine**  
-and **not an automation shortcut**.
-
-It is a **thinking support framework**.
+이 문서는 시스템 운용을 설명하지 않는다.  
+이 문서는 **사고 운용 방식**을 정의한다.
 
 ---
 
-## 1. Who This Is For (and Who It Is Not)
+## 기본 사용 흐름
 
-### Intended Users
-
-- Professionals who:
-  - must take responsibility for outputs
-  - work with incomplete or evolving intentions
-  - need structure more than speed
-
-### Not Intended For
-
-- Users seeking:
-  - instant answers
-  - full delegation of thinking
-  - AI-led decision making
-
-If you want the AI to “just do it for you”,  
-this framework will feel inefficient.
+1. AI 출력 수신
+2. 출력 분리 (사실 / 추론 / 가정)
+3. 사용자 판단 개입
+4. 채택 또는 거부
+5. 판단 근거 기록
 
 ---
 
-## 2. Common Friction Points (Acknowledged)
+## Mode A / Mode B
 
-This framework may feel uncomfortable at first.
+- Mode A: 탐색 모드 (아이디어 확장)
+- Mode B: 검증 모드 (판단 제한)
 
-Common reactions include:
-
-- “Why doesn’t the AI just fill in the gaps?”
-- “Why do I have to define direction?”
-- “This feels slower than usual AI usage.”
-
-These reactions are **expected** and **intentional**.
-
-They indicate that **responsibility remains with the human**.
+모드는 사용자가 명시적으로 선택한다.
 
 ---
 
-## 3. Two Operating Modes (Choose One)
+## 기록 원칙
 
-To reduce entry barriers, this framework supports **two modes**.
-
-### Mode A: Assisted Clarification (Beginner-Friendly)
-
-Use when:
-
-- your intent is vague
-- you are unsure what to ask yet
-
-AI is allowed to:
-
-- ask clarifying questions
-- suggest possible directions
-- reframe unclear intent
-
-AI is NOT allowed to:
-
-- finalize decisions
-- assume intent
-- judge correctness
-
-### Mode B: Strict Execution (Advanced Use)
-
-Use when:
-
-- direction is already clear
-- structural fidelity matters
-
-AI is allowed to:
-
-- execute instructions precisely
-- maintain format and structure
-
-AI is NOT allowed to:
-
-- expand scope
-- add interpretation
-- introduce new intent
+- 판단 근거는 간단해도 된다
+- 기록하지 않은 판단은 존재하지 않는 것으로 간주한다
 
 ---
 
-## 4. Minimal Responsibility Contract
+## 교육 환경 사용 고지
 
-Before using this framework, acknowledge:
+본 규약은 교육 환경에서도 적용된다.
 
-- AI output is **never final authority**
-- AI does not own responsibility
-- All acceptance, rejection, and reuse decisions belong to the human
+그러나:
 
-This is not legal language.
-This is an **operational boundary**.
+- 학습은 책임을 면제하지 않는다
+- 실험은 결과를 정당화하지 않는다
 
----
+학생은 다음을 수행해야 한다.
 
-## 5. Safe Use Guidelines
+- AI 출력 채택 이유 설명
+- 거부 판단 근거 명시
+- 사고 경로 기록
 
-To avoid stagnation or frustration:
-
-- If you feel stuck → switch to _Assisted Clarification_
-- If results feel diluted → switch to _Strict Execution_
-- If nothing progresses → your intent may not be ready yet
-
-In that case:
-
-> Stop. Think. Return later.
-
-This framework does not reward forced progress.
+교육은 책임 훈련이다.
 
 ---
 
-## 6. Creative Work Notice
+## 중단 조건
 
-This framework prioritizes:
+다음 상황에서는 사용을 중단한다.
 
-- clarity
-- structure
-- responsibility
+- 출력 결과만 신경 쓰게 될 때
+- 판단 설명이 불가능할 때
+- AI를 권위로 느끼기 시작할 때
 
-It may reduce:
-
-- randomness
-- unexpected inspiration
-
-For pure ideation or brainstorming,
-use a different AI interaction style.
-
----
-
-## 7. Why This Framework Exists
-
-Most AI usage fails not because AI is weak,
-but because **responsibility is unclear**.
-
-This framework exists to make responsibility explicit.
-
-If that feels heavy,
-it means the framework is working as designed.
-
----
-
-## 8. Final Note
-
-This document is not a restriction.
-It is a **boundary**.
-
-Boundaries protect both:
-
-- human judgment
-- AI usefulness
-
-Use it when that protection matters.
+이 프레임워크는 준비되지 않은 사용을 허용하지 않는다.

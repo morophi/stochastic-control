@@ -1,9 +1,10 @@
-# Notice on Use and Interpretation
+# Notice on Interpretation and Responsibility
 
-This repository defines a **boundary**, not a belief.
+This repository defines a **boundary**, not a belief system.
+It constrains interpretation, not agreement.
 
-Before using or referencing this framework,
-please read the following carefully.
+Before using, teaching, or referencing this framework,
+read this notice carefully.
 
 ---
 
@@ -13,11 +14,11 @@ This framework does not:
 
 - generate correct answers
 - validate decisions
-- replace judgment
-- assume intent
+- replace human judgment
+- assume user intent
 
-If you expect AI to decide, optimize, or approve,
-this framework is not designed for that purpose.
+AI outputs produced within this framework
+are artifacts, not conclusions.
 
 ---
 
@@ -28,44 +29,40 @@ Using this framework does not:
 - shift responsibility to AI
 - shift responsibility to the author
 - provide justification for outcomes
+- dilute accountability through education or experimentation
 
-All decisions, interpretations, and consequences
-remain with the user.
-
+Responsibility remains with the human operator.
 Always.
 
 ---
 
-## 3. On Partial Use and Quotation
+## 3. On Partial Use and Extraction
 
-This framework is **not modular advice**.
+This framework is not modular advice.
 
-Extracting parts of:
+Extracting or quoting parts of:
 
-- system_core.md
+- system_core documents
 - execution rules
 - declaration statements
 
 without full context
 will almost certainly lead to misinterpretation.
 
-If you cannot present the whole,
-do not present parts.
+If the whole cannot be presented,
+parts must not be presented.
 
 ---
 
-## 4. On Translation and Rewriting
+## 4. On Translation and Explanation
 
-Translations, summaries, and reinterpretations
-introduce bias and distortion.
+Translations and summaries are **non-canonical**.
 
-For this reason:
+- The original English documents define the framework
+- Local-language documents exist for explanation only
 
-- The original English documents are the only canonical reference
-- Local-language documents are explanatory guides only
-
-Any claim based on translated or summarized text
-must defer to the original source.
+Any claim or critique must defer to the original source
+when discrepancies arise.
 
 ---
 
@@ -73,14 +70,29 @@ must defer to the original source.
 
 Disagreement with this framework is valid.
 
+Rejection is valid.
+Non-adoption is valid.
+
 Misrepresentation is not.
 
-Criticism is welcome
-**only when the original structure is preserved**.
+Criticism is meaningful
+only when the original structure is preserved.
 
 ---
 
-## 6. Why This Notice Exists
+## 6. Educational Context Clarification
+
+Use in educational settings does not imply:
+
+- reduced standards
+- shared responsibility
+- experimental exemption
+
+Education here means **training responsibility**, not automating judgment.
+
+---
+
+## 7. Why This Notice Exists
 
 Most misuse of AI does not come from malice,
 but from blurred boundaries.
