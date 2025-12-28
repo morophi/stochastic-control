@@ -1,5 +1,8 @@
 # stochastic-control Framework
 
+This is not about making AI safer.
+It’s about making responsibility non-transferable.
+
 ## Before You Start
 
 This repository is **not** about:
